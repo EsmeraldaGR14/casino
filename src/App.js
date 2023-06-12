@@ -5,8 +5,9 @@ import Home from "./components/Home/Home";
 import Casino from "./components/Casino/Casino";
 
 function App() {
+  //
   return (
-    <div>
+    <div className="app-container">
       <Router>
         <Nav />
 

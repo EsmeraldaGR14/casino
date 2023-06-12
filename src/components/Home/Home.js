@@ -1,6 +1,7 @@
 import React from "react";
 
 function Home() {
+  //
   function handleHowToPlay() {
     console.log("yes");
   }
